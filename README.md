@@ -79,8 +79,7 @@ Shared_Memory/
 ├── shared_memory_utils.py    # 共享内存工具模块（底层操作）
 ├── requirements.txt          # 依赖说明（仅标准库）
 ├── README.md                 # 项目文档
-├── .gitignore               # Git 忽略配置
-└── GITHUB_SETUP.md          # GitHub 上传指南
+└── .gitignore               # Git 忽略配置
 ```
 
 ### 模块说明
